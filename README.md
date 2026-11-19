@@ -5,7 +5,7 @@ Para ingresar, usa el código de planta que te entregó tu equipo y tu cuenta de
 
 ## Android
 
-1. Descarga **Lumina-1.4.0.apk** desde [la versión de Android](https://github.com/optimizo-cl/Lumina-Mobile/releases/tag/v1.4.0).
+1. Descarga el archivo **.apk** de [la última versión para Android](https://github.com/optimizo-cl/Lumina-Mobile/releases/latest).
 2. Abre el archivo y sigue los pasos de Android para instalarlo.
 3. Abre **Lumina**. Si quieres avisos con la app cerrada, activa **Avisos → Notificaciones en este teléfono**. Usa Chrome actualizado para recibirlos.
 
